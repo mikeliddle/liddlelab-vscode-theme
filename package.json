@@ -1,0 +1,24 @@
+{
+    "name": "liddlelab-theme",
+    "displayName": "LiddleLab Theme",
+    "description": "A Dark Theme for Visual Studio Code",
+    "version": "0.0.2",
+    "publisher": "mikeliddle",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.78.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mikeliddle/liddlelab-vscode-theme"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "LiddleLab",
+                "uiTheme": "vs-dark",
+                "path": "./themes/LiddleLab-color-theme.json"
+            }
+        ]
+    }
+}

@@ -1,2 +1,3 @@
-# liddlelab-vscode-theme
-Color Theme for VSCode
+# LiddleLab VS Code Theme
+
+Dark Color Theme for VSCode
